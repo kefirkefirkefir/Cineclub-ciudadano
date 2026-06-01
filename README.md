@@ -1,10 +1,10 @@
 # Cineclub Ciudadano 2026
 
-Artefacto digital para la preselección colaborativa de películas del festival Cineclub Ciudadano 2026. Herramienta de trabajo del grupo de Cineclub para distribuir 53 películas entre 5 jurados temáticos y alcanzar un consenso grupal.
+Artefacto digital para la preselección colaborativa de películas del festival Cineclub Ciudadano 2026. Herramienta de trabajo del grupo de Cineclub para distribuir películas entre 5 jurados temáticos y alcanzar un consenso grupal.
 
 ## Descripción
 
-La aplicación permite al grupo de trabajo explorar un catálogo de 53 películas de 26 países, crear propuestas individuales de asignación por jurados y compararlas para encontrar puntos de acuerdo. Todo funciona en el navegador, sin necesidad de registro ni backend.
+La aplicación permite al grupo de trabajo explorar un catálogo de 52 películas de 26 países, crear propuestas individuales de asignación por jurados y compararlas para encontrar puntos de acuerdo. Todo funciona en el navegador, sin necesidad de registro ni backend.
 
 ## Páginas
 
