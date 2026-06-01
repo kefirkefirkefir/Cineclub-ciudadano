@@ -95,4 +95,4 @@ src/
 
 ## Licencia
 
-Uso interno del grupo de trabajo de Cineclub.
+GNU General Public License v3.0
